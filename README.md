@@ -2,4 +2,5 @@
 
 Shortcut for macOS that installs a configuration profile that blocks all notifications from Shortcuts app
 
-[Release 20260531](https://www.icloud.com/shortcuts/0a5054716f05482e96939d76aacfce1d)
+[Release 20260531](https://www.icloud.com/shortcuts/72e79a37972b442caf6a7f5bf3ba78f1)
+
