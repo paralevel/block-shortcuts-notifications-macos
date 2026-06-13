@@ -1,4 +1,4 @@
-# Disable Undisableable macOS Shortcuts Notifications
+# Disable undisableable macOS Shortcuts notifications
 
 Shortcut for macOS that installs a configuration profile that disables all notifications from Shortcuts app, including certain automation notifications which normally aren’t possible to disable
 
